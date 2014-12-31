@@ -1,0 +1,23 @@
+{
+  "name": "vftp",
+  "version": "0.0.1",
+  "description": "ftp handle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/vFTP.git"
+  },
+  "keywords": [
+    "ftp",
+    "node"
+  ],
+  "author": "Vi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/vFTP/issues"
+  },
+  "homepage": "https://github.com/devWayne/vFTP"
+}
