@@ -1,4 +1,3 @@
-vFTP
+ftp-handle
 ====
-FTP handle tool  
-#vFTP
+FTP handle tool 
