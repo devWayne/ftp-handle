@@ -1,5 +1,5 @@
 {
-  "name": "vftp",
+  "name": "ftp-handle",
   "version": "0.0.1",
   "description": "ftp handle",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devWayne/vFTP.git"
+    "url": "https://github.com/devWayne/ftp-handle.git"
   },
   "keywords": [
     "ftp",
@@ -17,7 +17,7 @@
   "author": "Vi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devWayne/vFTP/issues"
+    "url": "https://github.com/devWayne/ftp-handle/issues"
   },
-  "homepage": "https://github.com/devWayne/vFTP"
+  "homepage": "https://github.com/devWayne/ftp-handle"
 }
